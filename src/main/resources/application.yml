@@ -10,7 +10,7 @@ spring:
   datasource:
     # mariadb驱动
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mysql://xxx.xxx.xxx.xxx:3306/xxx?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://xxx.xxx.xxx.xxx:xxx/xxx?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=utf-8
     username: xxx
     password: xxx
 #    type: com.alibaba.druid.pool.DruidDataSource
